@@ -1,0 +1,927 @@
+[0m2021.11.05 12:42:32 INFO  Started: Metals version 0.10.8 in workspace '/mnt/c/Users/khauv/projet' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.05 12:42:33 INFO  time: initialize in 1.2s[0m
+[0m2021.11.05 12:42:33 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.05 12:42:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:42:36 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.05 12:42:39 INFO  time: code lens generation in 4.28s[0m
+[0m2021.11.05 12:49:45 INFO  shutting down Metals[0m
+[0m2021.11.05 12:50:01 INFO  Started: Metals version 0.10.9 in workspace '/mnt/c/Users/khauv/projet' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.05 12:50:03 INFO  time: initialize in 1.52s[0m
+[0m2021.11.05 12:50:03 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.05 12:50:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:50:03 INFO  skipping build import with status 'Requested'[0m
+[0m2021.11.05 12:50:06 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.05 12:50:09 INFO  time: code lens generation in 5.36s[0m
+[0m2021.11.05 12:54:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 12:54:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+[0m2021.11.05 12:54:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:22 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:54:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:55:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 12:55:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+[0m2021.11.05 12:56:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:56:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:57:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:57:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:57:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 12:57:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 229
+Nov 05, 2021 12:57:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 235
+[0m2021.11.05 12:57:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:57:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:57:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 12:58:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.11.05 12:58:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 12:59:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 284
+[0m2021.11.05 12:59:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 12:59:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 12:59:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 12:59:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 12:59:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+Nov 05, 2021 1:00:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+[0m2021.11.05 13:00:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:00:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 346
+Nov 05, 2021 1:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+[0m2021.11.05 13:00:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:00:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 379
+Nov 05, 2021 1:01:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 386
+Nov 05, 2021 1:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 393
+Nov 05, 2021 1:02:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 405
+Nov 05, 2021 1:02:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 411
+Nov 05, 2021 1:03:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 417
+[0m2021.11.05 13:03:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:03:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:03:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:03:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:03:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:06:22 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:06:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:06:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:06:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 542
+[0m2021.11.05 13:06:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 556
+[0m2021.11.05 13:06:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:06:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:06:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:06:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 582
+Nov 05, 2021 1:06:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 589
+Nov 05, 2021 1:06:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 595
+Nov 05, 2021 1:07:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 606
+[0m2021.11.05 13:07:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:07:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:08:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:08:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 642
+[0m2021.11.05 13:10:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:10:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:10:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:11:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:12:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:21 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:13:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:13:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 952
+Nov 05, 2021 1:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 958
+Nov 05, 2021 1:13:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 964
+[0m2021.11.05 13:13:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:13:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1001
+Nov 05, 2021 1:13:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1007
+[0m2021.11.05 13:13:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:13:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:13:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:14:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:14:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:14:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:14:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:14:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1098
+[0m2021.11.05 13:14:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:14:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:14:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:15:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:16:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:16:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1370
+Nov 05, 2021 1:16:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1376
+[0m2021.11.05 13:17:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:17:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:17:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:17:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:20:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:20:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:20:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:20:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:20:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:22:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:22:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:22:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:23:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:23:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:23:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:25:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:25:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:25:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:26:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:34:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:34:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:35:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:35:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:35:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1834
+Nov 05, 2021 1:35:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1840
+Nov 05, 2021 1:35:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1846
+[0m2021.11.05 13:36:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:36:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:36:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:36:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:36:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:36:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:36:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1900
+[0m2021.11.05 13:36:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:36:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:36:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:36:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1944
+Nov 05, 2021 1:36:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1950
+[0m2021.11.05 13:36:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:36:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:36:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1996
+Nov 05, 2021 1:37:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2002
+Nov 05, 2021 1:37:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2008
+[0m2021.11.05 13:37:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:37:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:37:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:37:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:37:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:37:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:38:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2152
+Nov 05, 2021 1:38:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2158
+[0m2021.11.05 13:38:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:38:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:22 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:39:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:40:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:40:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:40:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:41:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 13:41:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 1:41:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2487
+[0m2021.11.05 13:42:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:42:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:43:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:43:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:43:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:43:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:44:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:45:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:45:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:45:11 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:45:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 1:45:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 25 is not a valid line number, allowed [0..24]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.11.05 13:45:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:45:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:46:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:46:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:46:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:49:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:49:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:51:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:51:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:51:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:51:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:55:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:55:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:55:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:55:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:56:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:57:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:57:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:57:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:58:54 ERROR scalafmt: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala:13: error: [dialect default] illegal start of simple pattern
+      case (line, _) ifindex == line.length() && line(c - 1) == ',' => (result :+ "N/A").toList.filter{x => x != ""} //we are in the end of the line, thus if there is an last , we add "N\A"
+                                    ^[0m
+[0m2021.11.05 13:58:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:58:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:59:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:59:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:59:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 13:59:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:04:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3177
+Nov 05, 2021 2:04:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3184
+Nov 05, 2021 2:05:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3191
+[0m2021.11.05 14:05:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:05:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 2:06:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3240
+Nov 05, 2021 2:06:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3246
+[0m2021.11.05 14:06:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:06:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 2:06:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3260
+Nov 05, 2021 2:07:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "private://wsl%2Bubuntu/mnt/c/Users/khauv/projet/src/main/scala/projet.scala?%7B%22scheme%22%3A%22vscode-remote%22%7D#replacePreview"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "private" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 15 more
+
+[0m2021.11.05 14:07:21 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:07:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:07:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:07:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:07:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:08:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3292
+[0m2021.11.05 14:08:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:08:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:09:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:09:11 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:09:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 2:10:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3358
+[0m2021.11.05 14:10:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:10:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:10:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:10:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:10:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3427
+[0m2021.11.05 14:10:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:11:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "private://wsl%2Bubuntu/mnt/c/Users/khauv/projet/src/test/scala/projet.scala?%7B%22scheme%22%3A%22vscode-remote%22%7D#replacePreview"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "private" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 15 more
+
+[0m2021.11.05 14:11:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:14:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:16:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:17:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:49 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:18:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:19:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:11 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:15 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:20:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:21:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:21:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:21:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 14:22:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 2:22:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4099
+[0m2021.11.05 14:22:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:22:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:23:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:23:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4136
+[0m2021.11.05 14:23:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:23:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:23:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:23:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:23:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:24:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:24:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:24:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:47:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:47:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:47:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:47:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:47:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:49:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:50:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:54:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:54:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 14:54:22 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 2:54:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4637
+[0m2021.11.05 14:54:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 2:55:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4659
+Nov 05, 2021 3:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4674
+[0m2021.11.05 15:11:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:19:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4685
+[0m2021.11.05 15:19:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:19:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4716
+[0m2021.11.05 15:19:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:19:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4728
+[0m2021.11.05 15:19:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:19:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:19:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:20:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:20:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:20:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4791
+Nov 05, 2021 3:20:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "private://wsl%2Bubuntu/mnt/c/Users/khauv/projet/src/main/scala/projet.scala?%7B%22scheme%22%3A%22vscode-remote%22%7D#replacePreview"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "private" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 15 more
+
+[0m2021.11.05 15:20:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:20:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:21:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:21:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4828
+[0m2021.11.05 15:22:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:22:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:22:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:22:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:22:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:24:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4919
+[0m2021.11.05 15:25:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:25:08 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:25:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:25:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:25:21 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:25:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4995
+Nov 05, 2021 3:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5001
+Nov 05, 2021 3:25:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5007
+Nov 05, 2021 3:25:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5013
+Nov 05, 2021 3:25:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5019
+Nov 05, 2021 3:25:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5025
+Nov 05, 2021 3:25:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5031
+Nov 05, 2021 3:25:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5038
+[0m2021.11.05 15:25:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:25:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:26:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:26:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5074
+[0m2021.11.05 15:26:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:26:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:26:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:27:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:27:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:27:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:29:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:29:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:30:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:30:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5190
+Nov 05, 2021 3:30:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5200
+Nov 05, 2021 3:30:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5206
+[0m2021.11.05 15:30:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:30:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:30:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:30:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:30:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:30:47 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:32:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:32:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:32:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:33:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:33:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:11 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:21 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:34:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:35:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:36:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:36:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:36:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5618
+Nov 05, 2021 3:36:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5624
+Nov 05, 2021 3:37:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5633
+Nov 05, 2021 3:39:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5640
+Nov 05, 2021 3:39:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5647
+[0m2021.11.05 15:39:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:39 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:39:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:40:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:40:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:40:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:40:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:40:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5868
+Nov 05, 2021 3:41:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5881
+Nov 05, 2021 3:41:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5919
+Nov 05, 2021 3:42:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5927
+Nov 05, 2021 3:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5933
+Nov 05, 2021 3:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5940
+[0m2021.11.05 15:42:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:42:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:26 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:45 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:46 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:52 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:43:56 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:44:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6203
+[0m2021.11.05 15:44:05 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:12 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:13 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:17 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:21 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:22 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:24 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:30 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:54 ERROR scalafmt: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala:108: error: unclosed string literal
+      "\"29929\",
+      ^[0m
+[0m2021.11.05 15:44:54 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:44:54 ERROR scalafmt: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala:108: error: unclosed string literal
+      "\"29929\",
+      ^[0m
+[0m2021.11.05 15:44:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:23 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:25 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:28 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:50 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:45:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:02 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:07 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:46:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6616
+[0m2021.11.05 15:46:18 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:20 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:34 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:46:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:47:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:47:41 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:47:44 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:48:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:49:00 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:49:01 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:49:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:49:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:50:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6749
+[0m2021.11.05 15:50:33 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:50:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:50:43 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:50:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6809
+[0m2021.11.05 15:50:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:50:55 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:51:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:51:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6852
+[0m2021.11.05 15:51:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:54:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6877
+Nov 05, 2021 3:56:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6886
+Nov 05, 2021 3:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6892
+[0m2021.11.05 15:56:36 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:56:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:56:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6927
+[0m2021.11.05 15:56:59 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:03 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:04 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:10 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:11 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:19 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:27 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:31 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:32 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:38 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:40 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:42 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:48 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:51 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:53 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:57:58 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:58:06 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 15:58:09 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 3:58:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7205
+[0m2021.11.05 15:58:29 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:58:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7223
+Nov 05, 2021 3:58:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7230
+[0m2021.11.05 15:58:35 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+[0m2021.11.05 15:58:37 WARN  no build target for: /mnt/c/Users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 05, 2021 3:58:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7246
+Nov 05, 2021 3:59:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7252
+Nov 05, 2021 3:59:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7258
+[0m2021.11.05 16:00:14 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 16:00:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.05 16:00:16 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 05, 2021 4:00:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7306
+Nov 05, 2021 4:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7320
+Nov 05, 2021 4:01:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7325
+Nov 05, 2021 4:01:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7331
+Nov 05, 2021 4:01:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7336
+Nov 05, 2021 4:01:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7345
+Nov 05, 2021 4:01:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7351
+Nov 05, 2021 4:01:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7357
+Nov 05, 2021 4:01:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7364
+Nov 05, 2021 4:01:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7378
+[0m2021.11.05 16:01:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
