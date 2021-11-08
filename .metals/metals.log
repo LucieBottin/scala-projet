@@ -1500,3 +1500,14 @@ WARNING: Unmatched cancel notification for request id 4409
 [0m2021.11.08 21:43:53 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
 [0m2021.11.08 21:43:59 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
 [0m2021.11.08 21:44:03 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.08 21:48:37 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.08 21:48:40 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.08 21:48:44 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.08 21:48:48 WARN  no build target for: /mnt/c/users/khauv/projet/src/test/scala/projet.scala[0m
+Nov 08, 2021 9:48:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4515
+[0m2021.11.08 21:49:05 WARN  no build target for: /mnt/c/users/khauv/projet/src/main/scala/projet.scala[0m
+Nov 08, 2021 9:49:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4537
+Nov 08, 2021 9:49:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4549

@@ -39,6 +39,7 @@ class projet_test extends org.scalatest.FunSuite with org.scalatest.Matchers {
 }
 
 class TestParser extends org.scalatest.FunSuite with org.scalatest.Matchers {
+class TestParserCSV extends org.scalatest.FunSuite with org.scalatest.Matchers {
     test("full line") {
     val data = projet.filterData(
       "\"29929\",\"LFPR\",\"closed\",\"Guyancourt Airport\",\"48.76029968261719\",\"2.0625\",\"541\",\"EU\",\"FR\",\"FR-J\",\"Guyancourt\",\"no\",\"LFPR\",\"N/A\",\"N/A\",\"N/A\",\"http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Guyancourt\",\"N/A\""
@@ -51,6 +52,23 @@ class TestParser extends org.scalatest.FunSuite with org.scalatest.Matchers {
   test("Empty string") {
     val data = projet.filterData("")
     data should be(List())
+  }
+
+  test("Simple string") {
+    val data = projet.filterData("00A")
+    data should be(List("00A"))
+  }
+
+  test("Simple quote") {
+    val data = projet.filterData("6523,\"00A\",\"heliport\"")
+    data should be(List("6523", "00A", "heliport"))
+  }
+
+  test("quote with comma inside") {
+    val data = projet.filterData("6523,\"00A\",\"heliport\",\"Total, Rf Heliport\"")
+    data should be(List("6523", "00A", "heliport", "Total, Rf Heliport"))
+  }
+
   }
 
   test("Simple string") {
