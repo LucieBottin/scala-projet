@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 [0m[[0m[31merror[0m] [0m[0m/mnt/c/users/khauv/projet/src/main/scala/main.scala:1:8: not found: object parser[0m
 [0m[[0m[31merror[0m] [0m[0mimport parser._[0m
 [0m[[0m[31merror[0m] [0m[0m       ^[0m
+=======
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/src/main/scala/main.scala:37:85: not found: value local[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = SparkSession.builder().appName("projet-scala").config("spark.master", local).getOrCreate();[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                    ^[0m
+>>>>>>> 53a3e02748bd5357c8f202c8dbc4e5f176f84d96
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

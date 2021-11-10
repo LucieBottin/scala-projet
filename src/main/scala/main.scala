@@ -1,4 +1,5 @@
 import projet._
+import org.apache.spark.sql.SparkSession
 
 object main {
   def menu(): Any = {
@@ -18,6 +19,19 @@ object main {
   def query_menu(): Any = {
     println("Enter the country or coutry code")
     print("-> ")
+    val spark = SparkSession.builder().appName("projet-scala").config("spark.master", "local").getOrCreate();
+    val data = spark.read.format("csv").option("header", true).load("resources/runways.csv").toDF();
+    data.createOrReplaceTempView("runways");
+    val data2 = spark.read.format("csv").option("header", true).load("resources/airports.csv").toDF();
+    data2.createOrReplaceTempView("airports");
+
+    println("Enter country code : ")
+    val choice = scala.io.StdIn.readLine()
+
+    val subQuery = spark.sql("SELECT ident FROM airports WHERE iso_country = '" + choice + "'");
+    val selectedData = spark.sql("SELECT id FROM runways WHERE airport_ident = " + subQuery);
+
+    selectedData.show();
   }
 
   def reports_menu(): Any = {
@@ -32,4 +46,7 @@ object main {
 
     menu();
   }
+
+  
+
 }
