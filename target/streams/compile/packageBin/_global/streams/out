@@ -1,1 +1,35 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /mnt/c/Users/khauv/projet/target/scala-2.13/projet_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/projet_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	airports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/airports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	airports$Airports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/airports$Airports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	airports$Airports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/airports$Airports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	airports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/airports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countries$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/countries$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countries$Countries$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/countries$Countries$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countries$Countries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/countries$Countries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/countries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	projet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/projet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	projet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/projet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runways$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/runways$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runways$Runways$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/runways$Runways$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runways$Runways.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/runways$Runways.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runways.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/target/scala-2.13/classes/runways.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

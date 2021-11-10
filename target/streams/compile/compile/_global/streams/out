@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/khauv/projet/src/main/scala/projet.scala:30:33: value csvParserLine is not a member of object projet[0m
-[0m[[0m[31merror[0m] [0m[0m          createAirports(projet.csvParserLine(line))[0m
-[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/lubot/Documents/Workspace/SCALA/scala-projet/src/main/scala/main.scala:37:85: not found: value local[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = SparkSession.builder().appName("projet-scala").config("spark.master", local).getOrCreate();[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                    ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

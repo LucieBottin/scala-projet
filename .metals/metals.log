@@ -925,3 +925,82 @@ WARNING: Unmatched cancel notification for request id 7364
 Nov 05, 2021 4:01:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 7378
 [0m2021.11.05 16:01:57 WARN  no build target for: /mnt/c/Users/khauv/projet/src/test/scala/projet.scala[0m
+[0m2021.11.08 21:29:50 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\lubot\Documents\Workspace\Scala\scala-projet' for client Visual Studio Code 1.62.0.[0m
+[0m2021.11.08 21:29:52 INFO  time: initialize in 2.26s[0m
+[0m2021.11.08 21:29:57 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.08 21:29:57 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\projet.scala[0m
+nov. 08, 2021 9:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1
+nov. 08, 2021 9:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+[0m2021.11.08 21:29:59 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\test\scala\projet.scala[0m
+nov. 08, 2021 9:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3
+nov. 08, 2021 9:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.11.08 21:30:06 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 14s[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 13s[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 13s[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 14s[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 15s[0m
+[0m2021.11.08 21:30:14 INFO  time: code lens generation in 15s[0m
+[0m2021.11.08 21:30:15 INFO  time: code lens generation in 15s[0m
+[0m2021.11.08 21:30:15 INFO  time: code lens generation in 15s[0m
+[0m2021.11.08 21:30:15 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\test\scala\projet.scala[0m
+nov. 08, 2021 9:30:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 18
+nov. 08, 2021 9:30:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 24
+nov. 08, 2021 9:30:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 25
+[0m2021.11.08 21:30:15 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\projet.scala[0m
+nov. 08, 2021 9:30:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 28
+[0m2021.11.08 22:04:07 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\collection.scala[0m
+nov. 08, 2021 10:04:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 77
+[0m2021.11.08 22:04:15 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\collection.scala[0m
+nov. 08, 2021 10:11:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 101
+[0m2021.11.08 22:11:19 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\projet.scala[0m
+nov. 08, 2021 10:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 128
+[0m2021.11.08 22:12:34 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\test\scala\projet.scala[0m
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 145
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 147
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 149
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 148
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 150
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 151
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 154
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 153
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 152
+nov. 08, 2021 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 156
+nov. 08, 2021 10:13:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 162
+[0m2021.11.08 22:15:40 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\main.scala[0m
+nov. 08, 2021 10:15:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 198
+[0m2021.11.08 22:16:16 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\main.scala[0m
+nov. 08, 2021 10:16:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 217
+[0m2021.11.08 22:43:28 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\build.sbt[0m
+[0m2021.11.08 22:47:04 WARN  no build target for: C:\Users\lubot\Documents\Workspace\Scala\scala-projet\src\main\scala\resources\Firebase.scala[0m
+nov. 08, 2021 10:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1007
+nov. 08, 2021 10:58:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1823
+[0m2021.11.08 23:16:08 INFO  shutting down Metals[0m
